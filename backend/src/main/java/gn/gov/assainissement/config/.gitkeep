@@ -1,0 +1,2 @@
+# Ce dossier contiendra les classes de configuration Spring
+# (SecurityConfig, JwtConfig, SwaggerConfig, CorsConfig, etc.)

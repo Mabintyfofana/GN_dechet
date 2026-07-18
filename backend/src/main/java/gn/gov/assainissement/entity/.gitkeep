@@ -1,0 +1,2 @@
+# Ce dossier contiendra les entités JPA (@Entity)
+# (Utilisateur, Collecte, Menage, Zone, Paiement, etc.)

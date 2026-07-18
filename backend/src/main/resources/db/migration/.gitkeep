@@ -1,0 +1,3 @@
+# Ce dossier contiendra les scripts Flyway de migration de base de données
+# Convention de nommage : V{version}__{description}.sql
+# Exemple : V1__init_schema.sql, V2__add_indexes.sql

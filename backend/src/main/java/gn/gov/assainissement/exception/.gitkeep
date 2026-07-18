@@ -1,0 +1,2 @@
+# Ce dossier contiendra les exceptions personnalisées et les handlers globaux
+# (ResourceNotFoundException, GlobalExceptionHandler, ApiError, etc.)
